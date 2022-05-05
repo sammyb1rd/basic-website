@@ -1,0 +1,23 @@
+/* Stylesheet of basic-website */
+
+.nav {
+    color: blue;
+    background-color: lightblue;
+    
+}
+
+div {
+    color: red;
+    background-color: blue;
+    font-size: 16px;
+}
+
+p {
+    color: green;
+    background-color: yellow;
+}
+
+.test-div {
+    display: flex;
+    justify-content: space-between;
+}
