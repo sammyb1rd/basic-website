@@ -1,9 +1,21 @@
 /* Stylesheet of basic-website */
 
+* {
+    text-decoration: none;
+}
+
 .nav {
     color: blue;
     background-color: lightblue;
     
+}
+
+nav {
+    background-color: lightgreen;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    color: pink;
 }
 
 div {
@@ -20,4 +32,9 @@ p {
 .test-div {
     display: flex;
     justify-content: space-between;
+}
+
+select {
+    width: 100px;
+    height: 100px;
 }
